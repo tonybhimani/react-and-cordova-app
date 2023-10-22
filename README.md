@@ -43,6 +43,7 @@ I also suggest you edit the names, emails, websites, descriptions, etc in follow
 ```
 /package.json
 /package-lock.json
+/public/manifest.json
 /cordova/package.json
 /cordova/package-lock.json
 /cordova/config.xml
